@@ -22,8 +22,7 @@ To play in an already set up sandbox, in your browser, click the button below:
 First clone the repo:
 
 ```sh
-git clone https://github.com/frappe/frappe_docker
-cd frappe_docker
+git clone https://github.com/iahmedsabry/erp-next.git
 ```
 
 Then run: `docker compose -f pwd.yml up -d`
