@@ -23,6 +23,7 @@ First clone the repo:
 
 ```sh
 git clone https://github.com/iahmedsabry/erp-next.git
+cd erp-next
 ```
 
 Then run: `docker compose -f pwd.yml up -d`
